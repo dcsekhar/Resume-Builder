@@ -1,0 +1,49 @@
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\Resume Builder.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\Resume Builder.pdb
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\Antlr3.Runtime.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.AspNet.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.Core.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.OAuth.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.OpenId.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\EntityFramework.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\Microsoft.Web.Infrastructure.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\Newtonsoft.Json.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Net.Http.Formatting.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Helpers.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Http.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Http.WebHost.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Mvc.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Optimization.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Razor.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.WebPages.Deployment.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.WebPages.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.WebPages.Razor.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\WebGrease.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\WebMatrix.Data.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\WebMatrix.WebData.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\EntityFramework.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\Newtonsoft.Json.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Net.Http.Formatting.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Helpers.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Http.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Http.WebHost.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Mvc.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.Razor.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.WebPages.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.WebPages.Deployment.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\System.Web.WebPages.Razor.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\WebMatrix.Data.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\WebMatrix.WebData.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.AspNet.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.Core.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.OAuth.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.OpenId.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Chandra\Samples\Resume Builder\Resume Builder\obj\Debug\Resume Builder.dll
+C:\Chandra\Samples\Resume Builder\Resume Builder\obj\Debug\Resume Builder.pdb
+C:\Chandra\Samples\Resume Builder\Resume Builder\obj\Debug\Resume Builder.csprojResolveAssemblyReference.cache
